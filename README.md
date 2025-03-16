@@ -10,7 +10,7 @@ This extension allows you to insert Unicode characters in your documents using L
 
 ## How to use
 
-Type the shortcut of the character you want to insert and press <kbd>Shift<kbd> + <kbd>Space</kbd>.
+Type the shortcut of the character you want to insert and press <kbd>Shift</kbd> + <kbd>Space</kbd>.
 
 ## Adding shortcuts
 
