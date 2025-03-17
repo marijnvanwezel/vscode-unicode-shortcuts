@@ -26,7 +26,7 @@ To add additional shortcuts:
 
 The following shortcuts are available by default.
 
-### Logic Symbols
+### Logic symbols
 
 | Command                          | Symbol |
 |---------------------------------- |--------|
@@ -43,7 +43,7 @@ The following shortcuts are available by default.
 | `\bigwedge`                       | ⋀      |
 | `\bigvee`                         | ⋁      |
 
-### Greek Letters
+### Greek letters
 
 | Command                        | Symbol |
 |-------------------------------- |--------|
@@ -84,7 +84,7 @@ The following shortcuts are available by default.
 | `\Psi`                          | Ψ      |
 | `\Omega`                        | Ω      |
 
-### Equivalence Relations
+### Equivalence relations
 
 | Command           | Symbol |
 |-------------------|--------|
@@ -118,7 +118,7 @@ The following shortcuts are available by default.
 | `\nequiv`         | ≢      |
 | `\Equiv`          | ≣      |
 
-### Order Relations
+### Order relations
 
 | Command             | Symbol |
 |---------------------|--------|
@@ -132,14 +132,14 @@ The following shortcuts are available by default.
 | `\gg`               | ≫      |
 | `\prec`             | ≺      |
 | `\succ`             | ≻      |
-| `\preccurlyeq`      | ≼      |
-| `\succcurlyeq`      | ≽      |
+| `\preccurlyeq`, `\preceq`      | ≼      |
+| `\succcurlyeq`, `\succeq`      | ≽      |
 | `\precsim`          | ≾      |
 | `\succsim`          | ≿      |
 | `\nprec`            | ⊀      |
 | `\nsucc`            | ⊁      |
 
-### Set Theory
+### Set theory
 
 | Command              | Symbol |
 |----------------------|--------|
@@ -202,7 +202,7 @@ The following shortcuts are available by default.
 | `\promille`, `\permille`, `\perthousand` | ‰      |
 | `\pertenthousand`, `\basispoint` | ‱      |
 
-### Sub- and Superscripts
+### Sub- and superscripts
 
 | Command              | Symbol |
 |----------------------|--------|
@@ -310,7 +310,7 @@ The following shortcuts are available by default.
 | `\Updownarrow`      | ⇕      |
 | `\mapsto`           | ↦      |
 
-### Miscellaneous Symbols
+### Miscellaneous symbols
 
 | Command                  | Symbol |
 |--------------------------|--------|
